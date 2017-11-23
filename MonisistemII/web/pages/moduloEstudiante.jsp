@@ -9,9 +9,17 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Estudiantes</title>
+        <title>Modulo Estudiante</title>
     </head>
-    <body>
-        <h1>Hello World! Estudiantes</h1>
+    <body class="panel panel-body">
+        <div class="container">
+            <!-- Titulo Cabecera -->
+            <div class="cabecera page-header ">
+                <header class="titulo">
+                    <h1 style="font-size: 500%;" class="text-center">Estudiantes</h1>
+                </header>
+            </div>
+            
+        </div>
     </body>
 </html>
