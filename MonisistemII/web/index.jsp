@@ -43,6 +43,7 @@
                         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                         <li data-target="#myCarousel" data-slide-to="1"></li>
                         <li data-target="#myCarousel" data-slide-to="2"></li>
+                        <li data-target="#myCarousel" data-slide-to="3"></li>
                       </ol>
 
                       <!-- Wrapper for slides -->
@@ -64,6 +65,11 @@
                         <div class="item">
                             <center>
                             <img src="images/Logo_Ingenieria_Sistemas.png" alt="Ingenieria Sistemas" style="width:80%;">
+                            </center>
+                        </div>
+                        <div class="item">
+                            <center>
+                                <img src="images/github.png" alt="GitHub" style="width:95%;">
                             </center>
                         </div>
                       </div>
