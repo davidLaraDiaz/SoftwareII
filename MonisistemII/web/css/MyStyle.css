@@ -24,8 +24,8 @@ body{
         text-align: center;
 	display: inline-block;
 	width:auto;
-	height:40vw;
-        padding: 1.9vw;
+	height:10vw;
+        padding: 0.9vw;
 	font-size: 1.5vw;
 	
 }
@@ -35,18 +35,18 @@ body{
  
  .icono img{
  	transition: 0.5s;
- 	width:20vw;
- 	height:38vw;
+ 	width:5vw;
+ 	height:5vw;
 	border-radius:50%;
 	box-shadow:10px 5px 5px gray;
-	padding:1vw;
+	padding:.5vw;
 	border:1px solid #7A87A6;
  }
 
 .icono img:hover{
 	transition: 1s;
-	width:210%;
-	height:210%;
+	width:6vw;
+	height:6vw;
         
  }
 
