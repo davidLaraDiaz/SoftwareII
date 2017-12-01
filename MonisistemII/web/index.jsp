@@ -203,6 +203,10 @@
                           para que los estudiantes tengan un apoyo educativo por parte de las monitorias 
                           en las cuales se le presenta informacion personal, los horarios de atencion  de cada uno 
                           de los monitores,y mucha mas informacion acerca de la universidad y su entorno.
+                          
+                          
+                          
+                          
                         </p>
                     </div>
                 </div>
